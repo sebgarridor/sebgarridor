@@ -1,4 +1,5 @@
-### Hi there 👋
+### 25yo developer, trying to enter the IT world since 22'.
+Currently learning: JavaScript and Angular.
 
 <!--
 **sebgarridor/sebgarridor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
