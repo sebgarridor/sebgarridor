@@ -1,4 +1,4 @@
-### 25yo developer, trying to enter the IT world since 22'.
+### 25yo developer, trying to make my very first steps in the technology and programming career.
 Currently learning: JavaScript and Angular.
 
 <!--
