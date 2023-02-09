@@ -1,7 +1,7 @@
 ### 25yo developer, trying to make my very first steps in the technology and programming career. 💫
 Currently learning: TypeScript and Angular.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebgarridor&layout=compact)](https://github.com/sebgarridor/github-readme-stats)
 
 <!--
 **sebgarridor/sebgarridor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
