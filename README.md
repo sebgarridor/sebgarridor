@@ -1,6 +1,8 @@
 ### 
-Hi there, I am Sebastián, 25y/o developer, trying to make my very first steps in the technology and programming career. 💫
-<br> Currently learning: TypeScript and Angular.
+  <p>Hi there, I am <strong> Sebastián</strong>, 25y/o developer, trying to make my very first steps in the technology and programming career. 💫</p>
+  <br>
+  <p>find me on  <a href="https://www.linkedin.com/in/sebgarridor/">linkedin!</a>
+  </p>
 
 
 
