@@ -1,4 +1,5 @@
-### 25yo developer, trying to make my very first steps in the technology and programming career. 💫
+### 
+Hi there, I am Sebastián, 25y/o developer, trying to make my very first steps in the technology and programming career. 💫
 Currently learning: TypeScript and Angular.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebgarridor&layout=compact)](https://github.com/sebgarridor/github-readme-stats)
