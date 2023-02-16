@@ -4,7 +4,7 @@
   <p>find me on  <a href="https://www.linkedin.com/in/sebgarridor/">linkedin</a>, let's connect!
   </p>
 
-  <p style="font-family:Verdana, Geneva, Tahoma, sans-serif"> Currently working and learning TypeScript and Angular.</p>
+  <p style="font-family:Verdana, Geneva, Tahoma, sans-serif"> Currently learning and working with TypeScript and Angular.</p>
 
 
 
