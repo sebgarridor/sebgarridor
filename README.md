@@ -1,7 +1,7 @@
 ### 
   <div style="text-align: center;"><p>Hi there, I am <strong> Sebastián</strong>, 25y/o developer, trying to make my very first steps in the technology and programming career. 💫</p>
   <br>
-  <p>find me on  <a href="https://www.linkedin.com/in/sebgarridor/">linkedin</a>, let's connect!
+  <p>Find me on  <a href="https://www.linkedin.com/in/sebgarridor/">LinkedIn</a>, let's connect!
   </p>
 
   <p style="font-family:Verdana, Geneva, Tahoma, sans-serif"> Currently learning and working with TypeScript and Angular.</p>
