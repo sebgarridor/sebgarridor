@@ -6,7 +6,7 @@
 
   <p style="font-family:Verdana, Geneva, Tahoma, sans-serif"> Currently learning and working with TypeScript and Angular.</p>
   
-  <p> Check out my <a href="https://www.linkedin.com/in/sebgarridor/">portfolio</a>!
+  <p> Check out my <a href="https://sebgarridor.netlify.app/">portfolio</a>!
  </div>
 
 
