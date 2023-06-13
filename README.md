@@ -8,9 +8,9 @@
  <br>
 
  currently working at Entel
-  <br>
-  <p>Find me on  <a href="https://www.linkedin.com/in/sebgarridor/">LinkedIn</a>, let's connect!
-  </p>
+ <br>
+ <p>find me on  <a href="https://www.linkedin.com/in/sebgarridor/">LinkedIn</a>, let's connect!
+</p>
   
 
 
