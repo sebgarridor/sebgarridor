@@ -1,13 +1,17 @@
 ### 
-  <div style="text-align: center;"><p>Hi there, I am <strong> Sebastián</strong>, 25y/o developer, trying to make my very first steps in the technology and programming career. 💫</p>
+ 26yo
+ <br>
+ dev
+ <br>
+ roadcycling
+ <br>
+ <br>
+
+ currently working at Entel
   <br>
   <p>Find me on  <a href="https://www.linkedin.com/in/sebgarridor/">LinkedIn</a>, let's connect!
   </p>
-
-  <p style="font-family:Verdana, Geneva, Tahoma, sans-serif"> Currently learning and working with TypeScript and Angular.</p>
   
-  <p> Check out my <a href="https://sebgarridor.netlify.app/">portfolio</a>!
- </div>
 
 
 <!--
