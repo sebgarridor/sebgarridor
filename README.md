@@ -1,11 +1,4 @@
-### 
- 26yo
- <br>
- dev
- <br>
- roadcycling
- <br>
- <br>
+
 
  currently working at Entel
  <br>
